@@ -13,7 +13,10 @@ A simple Rock Paper Scissors game built using:
 - Responsive design
 
 ## How to Run
-Open `index.html` in your browser.
+Open `rockpaperscissors.html` in your browser.
+
+# The JavaScript code is within the script Tag
+#Also there is a separate js file for that 
 
 ## Author
 Nandhika Chapparapu
